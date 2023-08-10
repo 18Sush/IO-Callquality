@@ -1,0 +1,3 @@
+Developer Name: Sushmitha
+Bug Number: BNGH756487
+Bug Description: Invalid resolution error
